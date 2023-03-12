@@ -265,5 +265,4 @@ export class Joystick extends PIXI.Container {
     }
   }
 
-
 }
